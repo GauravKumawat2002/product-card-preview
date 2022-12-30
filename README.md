@@ -62,8 +62,9 @@ body {
 .text-container {
   display: flex;
   flex-direction: column;
-  flex: 1;
+
   padding: 2.28rem;
+  flex: 1;
 }
 ```
 
