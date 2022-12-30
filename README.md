@@ -76,5 +76,3 @@ I want to develop my skills on Responsive web development using flexbox & CSS Gr
 
 - Website - [Gaurav Kumawat](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
